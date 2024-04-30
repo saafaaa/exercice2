@@ -1,0 +1,29 @@
+h1{
+    width: 50%;
+    height: 150px; 
+    padding-bottom: 30px;
+    border: solid 5px red;
+}
+    
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blue ;
+    #color{ 
+        color: darkred;
+    }
+}
+h2{
+    margin-left: 30px;
+}
+#super{
+    margin:50px 25px ;
+}
+.mega{
+    padding:5px;
+}
+body{
+    background-color: rgb(245, 195, 215);
+}
+p{
+    text-align: center;
+}
